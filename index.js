@@ -10,4 +10,14 @@ class Hello extends React.Component {
 	}
 }
 
+function MoreToLearn() {
+	return (
+		<div>
+			<h2>More Components</h2>
+			<p>But this time using a function component!</p>
+		</div>
+			);
+}
+
 ReactDOM.render(<Hello />, document.getElementById('root'));
+ReactDOM.render(<MoreToLearn />, document.getElementById('more'));
