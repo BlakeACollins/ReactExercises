@@ -7,3 +7,5 @@ Class Component and a function Component excerise.
 SlotMachine excerise. 
 
 JSX Looping excerise. 
+
+Fruit Module excersie using create-react-app.
