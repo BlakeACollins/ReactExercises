@@ -1,7 +1,9 @@
-# ReactComponent
+# ReactExercises
 
-The start of my React learning! Class Component and a function Component.
+The start of my React learning! A repo for the excerises I'm working on or have completed.
 
-This repo also has the excerise SlotMachine in it. 
+Class Component and a function Component excerise.
 
-this repo also containes JSX Looping excerise. 
+SlotMachine excerise. 
+
+JSX Looping excerise. 
