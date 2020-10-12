@@ -8,4 +8,4 @@ SlotMachine excerise.
 
 JSX Looping excerise. 
 
-Fruit Module excersie using create-react-app, imports and exports. Fruit excerise is located in the src folder, for now.
+Fruit Module excersie using create-react-app and ES2015 Modules. Fruit excerise is located in the src folder, for now.
