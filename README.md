@@ -8,4 +8,4 @@ SlotMachine excerise.
 
 JSX Looping excerise. 
 
-Fruit Module excersie using create-react-app.
+Fruit Module excersie using create-react-app, imports and exports. 
